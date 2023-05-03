@@ -18,8 +18,6 @@ You want to link tuya with control4, home-made devices, something else? With thi
 
 
 [![Version](https://img.shields.io/badge/version-1.0.3.3-green.svg)](https://github.com/CdriFry/C4_WS2NR/releases/tag/V1.0.3.3)
-[![Version](https://img.shields.io/badge/version-1.0.3.2-green.svg)](https://github.com/CdriFry/C4_WS2NR/releases/tag/V1.0.3.2)
-[![Version](https://img.shields.io/badge/version-1.0.3.1-red.svg)](https://github.com/CdriFry/C4_WS2NR/releases/tag/V1.0.3.1)
 
 ## IMPORTANT
 
