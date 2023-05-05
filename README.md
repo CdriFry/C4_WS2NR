@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">A problem solver driver for Control4, connect Control4 to anything via Node-Red.</p>
+<p align="center">A problem solver driver for Control4, connect Control4 to anything via Node-Red and anything to Control4.</p>
 
 
 
