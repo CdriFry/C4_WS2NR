@@ -35,6 +35,8 @@ If you do not have access to ComposerPro, ask your dealer to install the driver,
 To install the driver control4, in ComposerPro go to Driver > Add or Update Driver or Agent.
 Go to agent and add it.
 
+The connection will be made only when you have added the node websocket in node-red.
+
 ## Usage
 
 See doc.
