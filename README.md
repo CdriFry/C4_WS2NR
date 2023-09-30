@@ -60,6 +60,9 @@ Unfortunately, Directly Changing Control Variables 4 is not a few things to reco
 
 You can add generic lamps to imitate the lamps that you want to add from node-red, this allows you to view these devices from control4 and in the navigators, just add it, to retrieve the proxyID of your generic lamp and subscribe to it in the agents, you can then act as if this lamp were your controlled lamp via node-red.
 
+If you want to use the Add-on Node-red module (https://github.com/hassio-addons/addon-node-red), in the "IP¨Adress" part, add "/endpoint/" in the url .
+Example: “ws://IP_ADRESS:1880/endpoint/control4” or "wss://IP_ADRESS:1880/endpoint/control4"
+
 ## Example
 
 <p align="center">
